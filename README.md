@@ -1,6 +1,6 @@
 ### Hi there! I am Marlon Tancredo 
 
-- 🔭 I’m currently working as Front-end development
+- 🔭 I’m currently working as Front-end developer
 - 🌱 I’m currently learning TypeScript and React
 
 ##
