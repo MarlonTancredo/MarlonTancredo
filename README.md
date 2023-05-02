@@ -1,7 +1,7 @@
 ### Hi there! I am Marlon Tancredo 
 
 - 🔭 I’m a Front-end developer.
-- 🌱 I’m currently using in personal projects TypeScript and React.
+- 🌱 I’m currently using TypeScript and React in my personal projects.
   
 ##
 
