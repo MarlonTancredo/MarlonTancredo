@@ -1,7 +1,10 @@
 ### Hi there! I am Marlon Tancredo 
 
 - 🔭 I’m a Front-end developer.
-- 🌱 I’m currently using TypeScript and React in my personal projects.
+- 💻 I love learn new code skills.
+- 🎮 I love play videogames in my free time.
+- ✈️ I love to travel and get to know new places and cultures.
+- 🏡 I love being with my family and friends.
   
 ##
 
