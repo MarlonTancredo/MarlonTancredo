@@ -1,15 +1,13 @@
-### Hi there! I am Marlon Tancredo 
+### Marlon Tancredo 
 ##
 
-I'm Marlon Tancredo and an EU citizen, Brazilian 🇧🇷 and Italian 🇮🇹, currently I'm a in London 🇬🇧, passionate about solving problems with technology and creating different solutions.
+I'm Daks Marlon Tancredo and an EU citizen, Brazilian 🇧🇷 and Italian 🇮🇹, currently I'm a in London 🇬🇧, passionate about solving problems with technology and creating different solutions.
 
 - 🔭 I’m a Front-end developer.
 - 💻 I love learn new code skills.
 - 🎮 I love play videogames in my free time.
 - ✈️ I love to travel and get to know new places and cultures.
 - 🏡 I love being with my family and friends.
-  
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
