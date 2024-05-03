@@ -1,4 +1,7 @@
 ### Hi there! I am Marlon Tancredo 
+##
+
+I'm Marlon Tancredo and an EU citizen, Brazilian 🇧🇷 and Italian 🇮🇹, currently I'm a in London 🇬🇧, passionate about solving problems with technology and creating different solutions.
 
 - 🔭 I’m a Front-end developer.
 - 💻 I love learn new code skills.
